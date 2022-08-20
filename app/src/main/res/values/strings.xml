@@ -6,12 +6,14 @@
     <string name="login_title">entrar no Linkverse</string>
     <string name="login_subtitle">faça login para continuar</string>
     <string name="edt_login">login</string>
-    <string name="email">insira seu email de acesso</string>
+    <string name="email">insira seu e-mail de acesso</string>
     <string name="edt_password">senha</string>
     <string name="senha">insira sua senha</string>
     <string name="continua_conectado">continuar conectado</string>
     <string name="btn_entrar">entrar</string>
     <string name="txt_ou">ou</string>
+    <string name="digite_sua_senha">digite sua senha</string>
+    <string name="digite_o_seu_nome">digite o seu nome</string>
 
 
 </resources>
