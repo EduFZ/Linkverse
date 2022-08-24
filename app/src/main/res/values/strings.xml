@@ -1,19 +1,19 @@
 <resources>
-    <string name="app_name">Linkverse</string>
+    <string name="app_name" translatable="false">Linkverse</string>
 
     <!-- login -->
 
-    <string name="login_title">entrar no Linkverse</string>
-    <string name="login_subtitle">faça login para continuar</string>
-    <string name="edt_login">login</string>
-    <string name="email">insira seu e-mail de acesso</string>
-    <string name="edt_password">senha</string>
-    <string name="senha">insira sua senha</string>
-    <string name="continua_conectado">continuar conectado</string>
-    <string name="btn_entrar">entrar</string>
-    <string name="txt_ou">ou</string>
-    <string name="digite_sua_senha">digite sua senha</string>
-    <string name="digite_o_seu_nome">digite o seu nome</string>
+    <string name="login_title" translatable="false">entrar no Linkverse</string>
+    <string name="login_subtitle" translatable="false">faça login para continuar</string>
+    <string name="edt_login" translatable="false">login</string>
+    <string name="email" translatable="false">insira seu e-mail de acesso</string>
+    <string name="edt_password" translatable="false">senha</string>
+    <string name="senha" translatable="false">insira sua senha</string>
+    <string name="continua_conectado" translatable="false">continuar conectado</string>
+    <string name="btn_entrar" translatable="false">entrar</string>
+    <string name="txt_ou" translatable="false">ou</string>
+    <string name="digite_sua_senha" translatable="false">digite sua senha</string>
+    <string name="digite_o_seu_nome" translatable="false">digite o seu nome</string>
 
 
 </resources>
