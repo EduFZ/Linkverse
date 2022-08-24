@@ -11,5 +11,6 @@
     <color name="laranja_padrao">#FFF19F00</color>
     <color name="laranja_secundario">#FFB87900</color>
     <color name="texto_fundo">#FF49454F</color>
+    <color name="home_fundo">#E4D8C2</color>
 
 </resources>
