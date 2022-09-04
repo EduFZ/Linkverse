@@ -13,7 +13,6 @@
         android:layout_height="wrap_content"
         android:background="@color/laranja_padrao">
 
-
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -53,275 +52,272 @@
 
             />
 
-
 </LinearLayout>
 
 
+<!--    <LinearLayout-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:background="@color/home_fundo"-->
+<!--        android:orientation="vertical"-->
+<!--        android:layout_marginStart="40dp"-->
+<!--        android:layout_marginEnd="40dp"-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        >-->
+
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:orientation="horizontal"-->
+<!--            >-->
+
+<!--        <ImageView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:src="@drawable/user"-->
+<!--            android:layout_weight="1"-->
+<!--            android:layout_marginTop="10dp"-->
+<!--            app:tint="@color/white" />-->
+
+<!--        <TextView-->
+<!--            android:textStyle="bold"-->
+<!--            android:textSize="20sp"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="José Maria Juneti"-->
+<!--            android:layout_weight="1"-->
+<!--            android:layout_marginTop="10dp"-->
+<!--            android:gravity="center" />-->
+
+<!--        <TextView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="..."-->
+<!--            android:layout_weight="1"-->
+<!--            android:layout_marginTop="10dp"-->
+<!--            android:textSize="30sp"-->
+<!--            android:textColor="@color/laranja_padrao"-->
+<!--            android:gravity="center"-->
+<!--            />-->
+
+
+
+
+<!--</LinearLayout>-->
+
+
+<!--        <TextView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s"-->
+
+<!--android:layout_margin="10dp"-->
+<!--            android:textAlignment="center"-->
+<!--            />-->
+
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:orientation="horizontal"-->
+<!--            >-->
+
+<!--            <ImageView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:src="@drawable/like"-->
+<!--                android:layout_marginTop="10dp"-->
+<!--                app:tint="@color/laranja_padrao"-->
+<!--                android:layout_weight="1"-->
+<!--                android:layout_marginBottom="10dp"-->
+<!--                />-->
+
+<!--            <ImageView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_weight="1"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:src="@drawable/conversation"-->
+<!--                android:layout_marginTop="15dp"-->
+<!--                app:tint="@color/laranja_padrao"-->
+
+
+<!--                />-->
+
+<!--            <ImageView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:src="@drawable/send"-->
+<!--                android:layout_marginTop="10dp"-->
+<!--                app:tint="@color/laranja_padrao"-->
+<!--                android:layout_weight="1"-->
+<!--                android:layout_marginBottom="10dp"-->
+
+
+<!--                />-->
+
+
+<!--        </LinearLayout>-->
+
+
+
+<!--</LinearLayout>-->
+
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:background="@color/home_fundo"-->
+<!--        android:orientation="vertical"-->
+<!--        android:layout_marginStart="40dp"-->
+<!--        android:layout_marginEnd="40dp"-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        >-->
+
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:orientation="horizontal"-->
+<!--            >-->
+
+<!--            <TextView-->
+<!--                android:textStyle="bold"-->
+<!--                android:textSize="15sp"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="Acesse nossos videos para iniciantes"-->
+<!--                android:layout_weight="1"-->
+<!--                android:layout_marginTop="10dp"-->
+<!--                android:gravity="center"-->
+<!--                />-->
+
+<!--            <ImageView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginTop="10dp"-->
+<!--                android:layout_weight="1"-->
+<!--                android:src="@drawable/next"-->
+<!--                app:tint="@color/laranja_padrao"-->
+<!--                />-->
+
+<!--        </LinearLayout>-->
+
+<!--    </LinearLayout>-->
+
+
+<!--    <LinearLayout-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:background="@color/home_fundo"-->
+<!--        android:orientation="vertical"-->
+<!--        android:layout_marginStart="40dp"-->
+<!--        android:layout_marginEnd="40dp"-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        >-->
 
-
-
-
-
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="@color/home_fundo"
-        android:orientation="vertical"
-        android:layout_marginStart="40dp"
-        android:layout_marginEnd="40dp"
-        android:layout_marginTop="10dp"
-        >
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:orientation="horizontal"
-            >
-
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@drawable/user"
-            android:layout_weight="1"
-            android:layout_marginTop="10dp"
-            app:tint="@color/white" />
-
-        <TextView
-            android:textStyle="bold"
-            android:textSize="20sp"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="José Maria Juneti"
-            android:layout_weight="1"
-            android:layout_marginTop="10dp"
-            android:gravity="center" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="..."
-            android:layout_weight="1"
-            android:layout_marginTop="10dp"
-            android:textSize="30sp"
-            android:textColor="@color/laranja_padrao"
-            android:gravity="center"
-
-            />
-
-
-
-
-</LinearLayout>
-
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s"
-
-android:layout_margin="10dp"
-            android:textAlignment="center"
-            />
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            >
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:src="@drawable/like"
-                android:layout_marginTop="10dp"
-                app:tint="@color/laranja_padrao"
-                android:layout_weight="1"
-                android:layout_marginBottom="10dp"
-                />
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_weight="1"
-                android:layout_height="wrap_content"
-                android:src="@drawable/conversation"
-                android:layout_marginTop="15dp"
-                app:tint="@color/laranja_padrao"
-
-
-                />
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:src="@drawable/send"
-                android:layout_marginTop="10dp"
-                app:tint="@color/laranja_padrao"
-                android:layout_weight="1"
-                android:layout_marginBottom="10dp"
-
-
-                />
-
-
-        </LinearLayout>
-
-
-
-</LinearLayout>
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@color/home_fundo"
-        android:orientation="vertical"
-        android:layout_marginStart="40dp"
-        android:layout_marginEnd="40dp"
-        android:layout_marginTop="10dp"
-        >
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:orientation="horizontal"
-            >
-
-            <TextView
-                android:textStyle="bold"
-                android:textSize="15sp"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Acesse nossos videos para iniciantes"
-                android:layout_weight="1"
-                android:layout_marginTop="10dp"
-                android:gravity="center"
-                />
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:layout_weight="1"
-                android:src="@drawable/next"
-                app:tint="@color/laranja_padrao"
-                />
-
-        </LinearLayout>
-
-    </LinearLayout>
-
-
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="@color/home_fundo"
-        android:orientation="vertical"
-        android:layout_marginStart="40dp"
-        android:layout_marginEnd="40dp"
-        android:layout_marginTop="10dp"
-        >
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:orientation="horizontal"
-            >
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:src="@drawable/user"
-                android:layout_weight="1"
-                android:layout_marginTop="10dp"
-                app:tint="@color/white" />
-
-            <TextView
-                android:textStyle="bold"
-                android:textSize="20sp"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Carla Joana Freitas"
-                android:layout_weight="1"
-                android:layout_marginTop="10dp"
-                android:gravity="center" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="..."
-                android:layout_weight="1"
-                android:layout_marginTop="10dp"
-                android:textSize="30sp"
-                android:textColor="@color/laranja_padrao"
-                android:gravity="center"
-
-                />
-
-
-
-
-        </LinearLayout>
-
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Lorem Ipsum is simply dumm text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. Lorem Ipsum"
-
-
-android:layout_margin="10dp"
-            android:textAlignment="center"
-            />
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            >
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:src="@drawable/like"
-                android:layout_marginTop="10dp"
-                app:tint="@color/laranja_padrao"
-                android:layout_weight="1"
-                android:layout_marginBottom="10dp"
-
-                />
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_weight="1"
-                android:layout_height="wrap_content"
-                android:src="@drawable/conversation"
-                android:layout_marginTop="15dp"
-                app:tint="@color/laranja_padrao"
-
-
-                />
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:layout_weight="1"
-                android:src="@drawable/send"
-                app:tint="@color/laranja_padrao"
-                android:layout_marginBottom="10dp"
-
-
-                />
-
-
-        </LinearLayout>
-
-
-
-    </LinearLayout>
-
-
-
-
+<!--&lt;!&ndash;        <LinearLayout&ndash;&gt;-->
+<!--&lt;!&ndash;            android:layout_width="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:layout_height="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:orientation="horizontal"&ndash;&gt;-->
+<!--&lt;!&ndash;            >&ndash;&gt;-->
+
+<!--&lt;!&ndash;            <ImageView&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_width="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_height="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:src="@drawable/user"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_weight="1"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_marginTop="10dp"&ndash;&gt;-->
+<!--&lt;!&ndash;                app:tint="@color/white" />&ndash;&gt;-->
+
+<!--&lt;!&ndash;            <TextView&ndash;&gt;-->
+<!--&lt;!&ndash;                android:textStyle="bold"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:textSize="20sp"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_width="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_height="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:text="Carla Joana Freitas"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_weight="1"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_marginTop="10dp"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:gravity="center" />&ndash;&gt;-->
+
+<!--&lt;!&ndash;            <TextView&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_width="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_height="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:text="..."&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_weight="1"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_marginTop="10dp"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:textSize="30sp"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:textColor="@color/laranja_padrao"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:gravity="center"&ndash;&gt;-->
+
+<!--&lt;!&ndash;                />&ndash;&gt;-->
+
+
+
+
+<!--&lt;!&ndash;        </LinearLayout>&ndash;&gt;-->
+
+
+<!--&lt;!&ndash;        <TextView&ndash;&gt;-->
+<!--&lt;!&ndash;            android:layout_width="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:layout_height="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:text="Lorem Ipsum is simply dumm text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. Lorem Ipsum"&ndash;&gt;-->
+
+
+<!--&lt;!&ndash;android:layout_margin="10dp"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:textAlignment="center"&ndash;&gt;-->
+<!--&lt;!&ndash;            />&ndash;&gt;-->
+
+<!--&lt;!&ndash;        <LinearLayout&ndash;&gt;-->
+<!--&lt;!&ndash;            android:layout_width="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:layout_height="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:orientation="horizontal"&ndash;&gt;-->
+<!--&lt;!&ndash;            >&ndash;&gt;-->
+
+<!--&lt;!&ndash;            <ImageView&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_width="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_height="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:src="@drawable/like"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_marginTop="10dp"&ndash;&gt;-->
+<!--&lt;!&ndash;                app:tint="@color/laranja_padrao"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_weight="1"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_marginBottom="10dp"&ndash;&gt;-->
+
+<!--&lt;!&ndash;                />&ndash;&gt;-->
+
+<!--&lt;!&ndash;            <ImageView&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_width="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_weight="1"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_height="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:src="@drawable/conversation"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_marginTop="15dp"&ndash;&gt;-->
+<!--&lt;!&ndash;                app:tint="@color/laranja_padrao"&ndash;&gt;-->
+
+
+<!--&lt;!&ndash;                />&ndash;&gt;-->
+
+<!--&lt;!&ndash;            <ImageView&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_width="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_height="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_marginTop="10dp"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_weight="1"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:src="@drawable/send"&ndash;&gt;-->
+<!--&lt;!&ndash;                app:tint="@color/laranja_padrao"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_marginBottom="10dp"&ndash;&gt;-->
+
+
+<!--&lt;!&ndash;                />&ndash;&gt;-->
+
+
+<!--&lt;!&ndash;        </LinearLayout>&ndash;&gt;-->
+
+
+
+<!--    </LinearLayout>-->
+
+<ListView
+    android:id="@+id/listview"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/home_fundo"
+
+/>
 
     <LinearLayout
         android:layout_width="350dp"

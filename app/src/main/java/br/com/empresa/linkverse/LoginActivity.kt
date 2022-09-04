@@ -14,11 +14,11 @@ class LoginActivity : AppCompatActivity() {
         val button = findViewById<Button>(R.id.login_button)
 
         button.setOnClickListener {
-         presentHomeActivity()
+            presentHomeActivity()
         }
     }
 
-    fun presentHomeActivity () {
+    fun presentHomeActivity() {
         val changePage = Intent(this, HomeActivity::class.java)
         startActivity(changePage)
     }
